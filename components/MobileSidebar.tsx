@@ -1,6 +1,5 @@
 // @ts-nocheck
 
-import React from 'react'
 import {Link} from "react-router";
 import {SidebarComponent} from "@syncfusion/ej2-react-navigations";
 import {NavItems} from "./index";
